@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway|Roboto+Condensed&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	background-color: #801336;
+}
+
+
+h1, h2, h3, h4 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	color: #ee4540;
+
+}
+
+
+ h2, h3, h4 {
+
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
